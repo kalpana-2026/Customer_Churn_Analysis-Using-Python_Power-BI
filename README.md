@@ -1,8 +1,7 @@
-# Customer_Churn_Analysis
-Customer churn analysis using Python and Power BI
+# 📊 Customer Churn Analysis
 
-## 📊 Project Overview
-This project analyzes telecom customer data to identify churn patterns and improve customer retention.
+## 🔍 Project Overview
+This project analyzes telecom customer data to understand why customers leave (churn) and how to reduce it.
 
 ## 🛠 Tools Used
 - Python (Pandas, NumPy)
@@ -11,15 +10,16 @@ This project analyzes telecom customer data to identify churn patterns and impro
 ## 📈 Key Insights
 - Month-to-month contract customers have higher churn
 - Customers with low tenure are more likely to leave
-- High monthly charges increase churn probability
+- High monthly charges increase churn risk
+- High-risk customers identified using business logic
 
-## 🚀 Features
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering using NumPy
-- Interactive Power BI Dashboard
+## 📊 Dashboard
+Power BI dashboard created to visualize churn patterns and customer behavior.
 
-## 📁 Files
-- Python_Project.ipynb
-- cleaned_churn_data.csv
-- Dashboard.pbix
+## 📁 Files Included
+- Python_Project.ipynb → Data analysis
+- cleaned_churn_data.csv → Processed dataset
+- Dashboard.pbix → Power BI dashboard
+
+## 🚀 Conclusion
+This project helps businesses identify high-risk customers and take actions to improve retention.
