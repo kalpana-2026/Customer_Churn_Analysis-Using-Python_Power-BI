@@ -20,7 +20,13 @@ Power BI dashboard created to visualize churn patterns and customer behavior.
 
 - [Python Analysis Notebook](Python_Project.ipynb) → Data analysis  
 - [Cleaned Dataset](Cleaned_Churn_data.csv) → Processed dataset  
-- [Power BI Dashboard](Python_Project_Dashboard.pbix) → Power BI dashboard  
+- [Power BI Dashboard](Python_Project_Dashboard.pbix) → Power BI dashboard
+- 
+- ## 📊 Dashboard Preview
+
+![Power BI Dashboard](images/Screenshot(45).png)
+
+👉 [Click here to view full image](images/Screenshot(45).png)
 
 ## 🚀 Conclusion
 This project helps businesses identify high-risk customers and take actions to improve retention.
