@@ -16,10 +16,11 @@ This project analyzes telecom customer data to understand why customers leave (c
 ## 📊 Dashboard
 Power BI dashboard created to visualize churn patterns and customer behavior.
 
-## 📁 Files Included
-- Python_Project.ipynb → Data analysis
-- Cleaned_Churn_data.csv → Processed dataset
-- Python_Project_Dashboard.pbix → Power BI dashboard
+## 📂 Files Included
+
+- [Python Analysis Notebook](Python_Project.ipynb) → Data analysis  
+- [Cleaned Dataset](Cleaned_Churn_data.csv) → Processed dataset  
+- [Power BI Dashboard](Python_Project_Dashboard.pbix) → Power BI dashboard  
 
 ## 🚀 Conclusion
 This project helps businesses identify high-risk customers and take actions to improve retention.
